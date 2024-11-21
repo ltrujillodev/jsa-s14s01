@@ -61,6 +61,13 @@ const App = () => {
           </div>
         )}
       </main>
+      <footer>
+        <div className="container">
+          <p>
+            &copy; 2024 Luis Trujillo<br></br>Todos los derechos reservados.
+          </p>
+        </div>
+      </footer>
     </div>
   );
 };
